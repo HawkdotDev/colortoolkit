@@ -1,4 +1,4 @@
-# ColorToolkit
+# ColorToolkit (Coming Soon)
 
 ColorToolkit is a lightweight JavaScript library that simplifies working with colors in web applications and projects. With ColorToolkit, you can effortlessly perform color conversions, generate various shades of colors, and ensure consistent colors based on strings or numbers.
 
