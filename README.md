@@ -141,7 +141,7 @@ Create a vintage effect for a color.
 
 ## Future Plans
 
-See [FUTURE_PLANS.md](./FUTURE_PLANS.md) for upcoming features and improvements.
+See [FUTURE_PLANS.md](./Roadmap.md) for upcoming features and improvements.
 
 ## Contributing
 

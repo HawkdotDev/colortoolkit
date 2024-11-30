@@ -1,5 +1,5 @@
 {
-  "name": "colortoolkit",
+  "name": "@hawkdotdev/colortoolkit",
   "version": "1.0.0",
   "description": "A lightweight color manipulation toolkit for web applications",
   "main": "dist/index.js",
