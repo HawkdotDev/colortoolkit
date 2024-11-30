@@ -81,64 +81,6 @@ const { vaporwave, cyberpunk } = modernPalettes;
 const { spring, summer } = seasonalPalettes;
 ```
 
-## API Reference
-
-### Color Conversion
-
-#### `hexToRgb(hex: string): { r: number, g: number, b: number }`
-Convert hex color to RGB values.
-
-#### `rgbToHex(r: number, g: number, b: number): string`
-Convert RGB values to hex color.
-
-#### `rgbToHsl(r: number, g: number, b: number): { h: number, s: number, l: number }`
-Convert RGB values to HSL.
-
-#### `hslToRgb(h: number, s: number, l: number): { r: number, g: number, b: number }`
-Convert HSL values to RGB.
-
-### Color Schemes
-
-#### `getRetroScheme(hex: string): string[]`
-Generate retro color scheme.
-
-#### `getPastelScheme(hex: string): string[]`
-Generate pastel color scheme.
-
-#### `getNeonScheme(hex: string): string[]`
-Generate neon color scheme.
-
-#### `getEarthyScheme(hex: string): string[]`
-Generate earthy color scheme.
-
-### Color Effects
-
-#### `createGradient(startColor: string, endColor: string, steps?: number): string[]`
-Create a gradient between two colors.
-
-#### `createMetallicEffect(hex: string): string[]`
-Create a metallic effect for a color.
-
-#### `createGlowEffect(hex: string): string[]`
-Create a glowing effect for a color.
-
-#### `createVintageEffect(hex: string): string`
-Create a vintage effect for a color.
-
-### Predefined Palettes
-
-#### Modern Palettes
-- `vaporwave`: Vaporwave aesthetic palette
-- `cyberpunk`: Cyberpunk theme palette
-- `minimalist`: Clean minimalist palette
-- `neonNights`: Neon-inspired palette
-
-#### Seasonal Palettes
-- `spring`: Spring-themed palette
-- `summer`: Summer-themed palette
-- `autumn`: Autumn-themed palette
-- `winter`: Winter-themed palette
-
 ## Future Plans / Roadmap
 
 See [Roadmap](./Roadmap.md) for upcoming features and improvements.
