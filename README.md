@@ -139,9 +139,9 @@ Create a vintage effect for a color.
 - `autumn`: Autumn-themed palette
 - `winter`: Winter-themed palette
 
-## Future Plans
+## Future Plans / Roadmap
 
-See [FUTURE_PLANS.md](./Roadmap.md) for upcoming features and improvements.
+See [Roadmap](./Roadmap.md) for upcoming features and improvements.
 
 ## Contributing
 
