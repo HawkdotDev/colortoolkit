@@ -1,0 +1,39 @@
+{
+  "name": "@hawkdotdev/colortoolkit",
+  "version": "1.0.0",
+  "description": "A lightweight color manipulation toolkit for web applications",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js",
+    "build": "node build.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "color",
+    "conversion",
+    "toolkit",
+    "hex",
+    "rgb",
+    "hsl",
+    "shades",
+    "palette"
+  ],
+  "author": {
+    "name": "Dwaipayan Dutta",
+    "url": "https://github.com/HawkdotDev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HawkdotDev/colortoolkit.git"
+  },
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  }
+}

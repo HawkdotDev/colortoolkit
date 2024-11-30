@@ -1,0 +1,7 @@
+src/
+test/
+build.js
+tsconfig.json
+.gitignore
+.npmignore
+FUTURE_PLANS.md
