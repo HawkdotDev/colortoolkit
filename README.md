@@ -12,12 +12,6 @@ A lightweight, zero-dependency color manipulation toolkit for web applications.
 - **Special Effects:** Create gradients, metallic, glow, and vintage effects
 - **Zero Dependencies:** Lightweight and efficient with no external dependencies
 
-## Installation
-
-```bash
-npm install colortoolkit
-```
-
 ## Usage
 
 ```javascript
@@ -91,4 +85,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
+[MIT](./LICENSE)
